@@ -1,2 +1,3 @@
 echo " Welcome to the new week "
 it'so SUNDAY
+it'so MONDAY
